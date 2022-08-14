@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fafafa;
+}
+.img{
+    position: absolute;
+    left: 155px;
+    top: 25px;
+}
+.left-section{
+    position: absolute;
+    left: 250px;
+    top: 25px;
+}
+.right-section{
+    float: right;
+}
+.right-section .card{
+    position: absolute;
+    background-color: #fff;
+    right: 170px;
+    top: 43px;
+    padding: 30px 90px;
+    height: 400px;    
+}
+.middle-section .card{
+    background-color: #fff;
+    position: absolute;
+    right: 170px;
+    top: 450px;
+    padding: 20px 79px;
+}
+.cont{
+    width: 160%;
+    margin-left: -53px;
+    background-color: #fafafa;
+    font-size: 12px;
+    padding: 19px;
+}
+.card .btn{
+    color: #fff;
+    background-color: #b2dffc;
+    width: 160%;
+    margin-left: -53px;
+    padding: 2px;
+    font-size: 14px;
+}
+.card span{
+    text-align: center;
+}
+.card a{
+    color: #385185;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+}
+.card a span{
+    color: #4f376b;
+    margin-left: 35px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.middle-section .card span{
+    font-size: 14px;
+}
+.middle-section .card span a{
+    color: #2795f6;
+    font-weight: 600;
+}
+.app{
+    position: absolute;
+    right: 310px;
+    top: 530px;
+    font-size: 14px;
+}
+.image{
+    position: absolute;
+    right: 350px;
+    top: 569px;
+}
+.image1{
+    position: absolute;
+    right: 210px;
+    top: 569px;
+}
